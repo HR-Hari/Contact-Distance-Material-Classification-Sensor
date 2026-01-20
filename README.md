@@ -43,7 +43,7 @@ Inspired by tactile sensing concepts used in assistive devices and biological sy
 - Arduino / C
 - MG995 Servo Motor
 - MPU6050 Accelerometer
-- MATLAB / Python (basic plotting and analysis)
+- Python (basic plotting and analysis)
 
 ---
 
